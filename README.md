@@ -51,7 +51,14 @@ These views were built to support data-driven decisions in sales strategy, logis
 
 - `Sales Dataset.xlsx` – Raw dataset used for modeling and analysis  
 - `Dashboard 1.png` – Final dashboard screenshot exported from Power BI  
-- `README.md` – Project documentation  
+- `README.md` – Project documentation
+  
+  ## My Dashboard
+   
+![Sales report PowerBI](https://github.com/user-attachments/assets/cba62903-1a7c-4046-984c-59a017bbc89c)
+
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/7f321117-5b3d-4904-ab9f-dd98c2cb245d)
+
 
 ## 🧠 Summary
 
