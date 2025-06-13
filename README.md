@@ -1,69 +1,58 @@
-📊 Superstore Sales Dashboard Project
-Welcome to my Superstore Sales Dashboard project! This project showcases my ability to turn raw sales data into compelling, interactive insights using Power BI and Excel.
+# 📊 Superstore Sales Dashboard Project
 
+This project showcases a professional business dashboard created in **Power BI**, visualizing sales performance from a global superstore dataset. The goal was to identify key trends, patterns, and operational inefficiencies using powerful visual storytelling.
 
-🔍 Project Overview
-This dashboard analyzes and visualizes sales data from a superstore dataset, with a focus on:
+![Superstore Dashboard](Dashboard%201%20(1).png)
 
-Total Sales by Region
+## 🔍 Project Overview
 
-Profit Margins by Product Category
+The dashboard provides an at-a-glance summary of:
 
-Shipping Cost Trends by Month
+- Total Sales by Region  
+- Profit Margins by Product Category  
+- Monthly Shipping Cost Analysis  
+- Order Priority Breakdown
 
-Order Priority Breakdown
+These views were built to support data-driven decisions in sales strategy, logistics, and customer priority handling.
 
-These visuals help decision-makers identify top-performing regions, cost inefficiencies, and opportunities for growth.
+## 📈 Large Events and Trends Identified
 
-🚀 Tools & Skills Demonstrated
-🧠 Data Analytics
-Power BI
+- **High Shipping Costs in February:** Same-Day shipping peaked significantly in February, suggesting either seasonal demand or fulfillment inefficiencies.
+- **Regional Performance Gaps:** Canada and Central African regions lag far behind Western US and Oceania, indicating areas for market growth or performance optimization.
+- **Technology Outperformance:** Technology products delivered consistently high profit margins, making them a priority for expansion and marketing.
+- **Order Prioritization:** The majority of orders fall into the 'Medium' and 'High' priority categories, showing a balanced order pipeline with potential gains from upselling to 'Critical' orders.
 
-Designed interactive visuals and slicers (Year, Region, Category, Ship Mode)
+## 🚀 Tools & Skills Demonstrated
 
-Created custom tooltips and conditional formatting
+### 🔹 Power BI
+- **Data Modeling**
+  - Connected and related multiple tables
+  - Created calculated columns and measures using DAX
+- **Dashboard Design**
+  - Multi-chart layout combining bar, line, pie, and scatter visuals
+  - Interactive slicers for time, region, and shipping mode
+  - Highlighted KPIs using conditional formatting
+- **Advanced Visualization**
+  - Used scatter plots with trend labels for margin analysis
+  - Custom tooltips and label formatting for visual clarity
 
-Used DAX for calculated fields (e.g., % of Total Orders)
+### 🔸 Microsoft Excel
+- **Data Cleaning**
+  - Handled missing values, removed duplicates
+  - Standardized inconsistent data formats (dates, categories)
+- **Pivot Table Analysis**
+  - Aggregated order and shipping data across time and category
+- **Advanced Excel Features**
+  - VLOOKUP/XLOOKUP for data merging
+  - Conditional formatting to surface anomalies
+  - Chart creation and dashboard mockup before Power BI implementation
 
-Combined multiple views (bar, scatter, pie, line) into one cohesive dashboard
+## 📂 Files Included
 
-Microsoft Excel
+- `Sales Dataset.xlsx` – Raw dataset used for modeling and analysis  
+- `Dashboard 1.png` – Final dashboard screenshot exported from Power BI  
+- `README.md` – Project documentation  
 
-Data cleaning and transformation (handling missing values, normalization)
+## 🧠 Summary
 
-Pivot tables and charts
-
-Sorting, filtering, and conditional formatting for quick analysis
-
-📊 Data Visualization
-Used bar charts, scatter plots, line graphs, and pie charts for clarity and storytelling
-
-Emphasized data-driven design, ensuring each chart provides value
-
-Highlighted insights (e.g., Canada’s sales with color-coded bar)
-
-🔧 Data Preparation
-Aggregated and grouped data for regional, monthly, and categorical analysis
-
-Identified outliers and trends in shipping costs and profit margins
-
-📈 Key Insights
-Canada had one of the lowest sales among all regions.
-
-Shipping Costs had major spikes, especially in February for Same-Day delivery.
-
-Technology category showed high profits per sale compared to others.
-
-High priority orders made up nearly 30% of total orders.
-
-📂 Files Included
-Sales Dataset.xlsx – Raw dataset used for dashboard creation
-
-README.md – Project documentation (this file)
-
-💡 Future Improvements
-Automate monthly data updates using Power BI's data refresh feature
-
-Add predictive modeling using Python or R for sales forecasting
-
-Integrate data from multiple years and sources (e.g., inventory or customer satisfaction)
+This project demonstrates strong skills in business intelligence reporting using **Power BI**, along with **data preparation** and **trend analysis** in **Excel**. The dashboard provides meaningful insights that can be acted upon by sales and operations teams to boost performance, optimize costs, and improve customer satisfaction.
