@@ -1,8 +1,8 @@
-# 📊 Superstore Sales Dashboard 
+
 
 This project showcases a professional business dashboard created in **Power BI**, visualizing sales performance from a global superstore dataset. The goal was to identify key trends, patterns, and operational inefficiencies using powerful visual storytelling.
 
-![Superstore Dashboard](Dashboard%201%20(1).png)
+
 
 ## 🔍 Project Overview
 
